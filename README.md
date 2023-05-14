@@ -14,9 +14,9 @@ mkdir plugins
 ```bash
 cd plugins
 
-wget https://github.com/wat4r/GodzillaAssemblyLoadPlugin/releases/download/v1.0.0-GodzillaAssemblyLoadPlugin/AssemblyLoad.zip
+wget https://github.com/wat4r/GodzillaAssemblyLoadPlugin/releases/download/v1.0.0/AssemblyLoad.zip
 
-unzip AssemblyLoadPlugin.zip
+unzip AssemblyLoad.zip
 ```
 
 文件目录结构如下
