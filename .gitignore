@@ -1,0 +1,8 @@
+.idea
+.vscode
+*.exe
+*.dll
+*.jar
+*.class
+AssemblyLoadPlugin/out/*
+AssemblyLoad/AssemblyLoad/obj/*
